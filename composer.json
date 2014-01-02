@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Seperating actions from controllers",
     "keywords": ["action","actions", "controller", "controllers"],
-    "homepage": "http://github.com/Seldaek/monolog",
+    "homepage": "https://github.com/dipakdotyadav/zf2-seperate-actions",
     "authors": [
         {
             "name": "Dipak Yadav",
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "zendframework/zendframework": "2.*",
+        "zendframework/zendframework": "2.*"
     },
     "autoload": {
         "psr-0": {
