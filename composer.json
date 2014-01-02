@@ -1,5 +1,5 @@
 {
-    "name": "ZendAction/ZendAction",
+    "name": "zend-action/zend-action",
     "type": "library",
     "description": "Seperating actions from controllers",
     "keywords": ["action","actions", "controller", "controllers"],
